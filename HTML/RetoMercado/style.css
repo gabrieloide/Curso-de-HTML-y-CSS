@@ -1,0 +1,29 @@
+#h1
+{
+    font-size: 30px;
+    color: white;
+}
+#h2
+{
+    font-size: 30px;
+    color: white;
+    margin: 15px;
+    
+}
+#Background
+{
+    background-color: rgb(31, 31, 31);
+}
+#href
+{
+    color: white;
+}
+#ol
+{
+    color: rgb(172, 83, 172);
+}
+#img
+{
+    border-radius: 30%;
+    width: 10%;
+}
