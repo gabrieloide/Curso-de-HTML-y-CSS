@@ -30,6 +30,7 @@ h1
 }
 #main-nav a
 {
+    text-align: center;
     color: white;
     background-color: #13a4a4;
     padding: 5px;
