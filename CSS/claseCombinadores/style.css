@@ -1,0 +1,17 @@
+/*h2 + p 
+{
+    color: red;
+}*/
+
+/*h2 ~ p
+{
+    color: red;
+}*/
+/*div > p
+{
+    color: red;
+}*/
+div p
+{
+    color: red;
+}
