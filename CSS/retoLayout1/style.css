@@ -1,0 +1,39 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    background-color: peachpuff;
+    height: 3rem;
+}
+nav
+{
+    text-align: right;
+    padding-right: 5rem;
+}
+.nav li
+{    
+    display: inline-block;
+}
+.slider-left
+{
+    background-color: brown;
+    width: 18rem;
+    height: 100%;
+    position: fixed;
+}
+.box
+{
+    background-color: aqua;
+    height: 100px;
+    width: 15rem;
+    margin: 7.25%;
+    border-radius: 5%;
+}
+p
+{
+    margin-left: 18rem;
+}
